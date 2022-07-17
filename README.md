@@ -5,8 +5,6 @@
 -   Object Detection 
 -   Trajectory Data Analysis
 -   ML Ops
--   Statistics
--   Computer Vision
 
 ----
 ### Education 👨🏻‍🎓
