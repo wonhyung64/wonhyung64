@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=50&section=header&text=Hi,%20there&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=black&height=50&section=header&text=신원형,%20WonHyung%20Shin&fontSize=20)
 
 ### 👉 [RESUME](https://wonhyung64.github.io/) 👈
 
