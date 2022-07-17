@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=50&section=header&text=Hi,%20there&fontSize=20)
-![tailer](https://capsule-render.vercel.app/api?type=rect&color=auto&height=50&section=header&text=[👉 [RESUME](https://wonhyung64.github.io/) 👈]&fontSize=20)
-### [👉 [RESUME](https://wonhyung64.github.io/) 👈]
+![header](https://capsule-render.vercel.app/api?type=rect&color=white&height=50&section=header&text=Hi,%20there&fontSize=20)
+
+### 👉 [RESUME](https://wonhyung64.github.io/) 👈
 
 ### Interests 📖
 -   Object Detection 
