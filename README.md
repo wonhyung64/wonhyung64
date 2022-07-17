@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=Hi, %20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=Hi%20render&fontSize=90)
 
 ## 👉 [RESUME](https://wonhyung64.github.io/) 👈
 
