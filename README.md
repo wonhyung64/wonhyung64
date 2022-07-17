@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=30&section=header&text=신원형,%20WonHyung%20Shin&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=timeauto&height=30&section=header&text=신원형,%20WonHyung%20Shin&fontSize=20)
 
 
 ### Interests 📖
