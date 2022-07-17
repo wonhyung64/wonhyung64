@@ -1,8 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=신원형, WonHyung Shin%20render&fontSize=90)
 
 ## 신원형, WonHyung Shin
 
-----
 ### Interests 📖
 -   Object Detection 
 -   Trajectory Data Analysis
@@ -20,6 +19,6 @@
 ### Tech Stacks 🔧
 ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![Tensorflow Badge](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white) ![Git Badge](http://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux Badge](http://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black) ![Scikit-learn Badge](http://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![R Badge](http://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)
 
-----
+
 ### 👉 [RESUME](https://wonhyung64.github.io/) 👈
 
