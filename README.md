@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=black&height=50&section=header&text=신원형,%20WonHyung%20Shin&fontSize=20)
 <div align="center">
-  👉 [RESUME](https://wonhyung64.github.io/) 👈
+  [👉 [RESUME](https://wonhyung64.github.io/) 👈]
 </div>
 
 
